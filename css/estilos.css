@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f9fa;
+}
+.hero {
+  background: linear-gradient(90deg, #007bff 60%, #0056b3 100%);
+}
+.card-title {
+  color: #007bff;
+}
+@media (max-width: 768px) {
+  .hero img {
+    max-width: 200px;
+  }
+} 
